@@ -15,9 +15,8 @@
 
 1. Pouvez-vous vous présenter et nous parler de votre parcours ?
 2. Pourquoi souhaitez-vous travailler en freelance plutôt qu’en CDI ?
-3. Pourquoi souhaitez-vous travailler dans une startup ?
-4. Qu’est-ce qui vous attire dans les projets digitaux (e-commerce, SaaS, outils métiers) ?
-5. Comment organisez-vous votre travail en mode remote ?
+3. Qu’est-ce qui vous attire dans les projets digitaux (e-commerce, SaaS, outils métiers) ?
+4. Comment organisez-vous votre travail en mode remote ?
 
 ---
 
@@ -27,7 +26,6 @@
 2. Comment avez-vous appris HTML, CSS et JavaScript ?
 3. Quelles ressources utilisez-vous pour progresser (cours, documentation, vidéos, etc.) ?
 4. Parlez-nous d’une technologie que vous avez apprise récemment.
-5. Que faites-vous lorsque vous êtes bloqué sur un problème technique ?
 
 ---
 
@@ -35,19 +33,15 @@
 
 1. Quelle est la différence entre les balises sémantiques et non sémantiques ?
 2. Pourquoi les balises sémantiques sont-elles importantes ?
-3. Comment fonctionnent les formulaires en HTML ?
-4. Quelle est la différence entre `id` et `class` ?
-5. Comment structureriez-vous une page web propre et accessible ?
+3. Quelle est la différence entre `id` et `class` ?
+4. Comment structureriez-vous une page web propre et accessible ?
 
 ---
 
 # 🎨 4. Questions CSS (Mise en Page & Responsive)
 
-1. Quelle est la différence entre Flexbox et Grid ?
-2. Expliquez le modèle de boîte (box model) en CSS.
-3. Quelle est la différence entre `position: relative`, `absolute` et `fixed` ?
-4. Comment rendre un site responsive ?
-5. Comment débogueriez-vous un problème d’affichage ?
+1. Comment rendre un site responsive ?
+2. Comment débogueriez-vous un problème d’affichage ?
 
 ### Cas pratique :
 
@@ -57,11 +51,8 @@
 
 # ⚙️ 5. Questions JavaScript (Vanilla JS)
 
-1. Quelle est la différence entre `var`, `let` et `const` ?
-2. Qu’est-ce qu’un event listener ?
-3. Expliquez le fonctionnement du DOM.
-4. Quelle est la différence entre JavaScript synchrone et asynchrone ?
-5. Qu’est-ce qu’une Promise ?
+1. Qu’est-ce qu’un event listener ?
+2. Expliquez le fonctionnement du DOM.
 
 ### Cas pratique :
 
@@ -72,10 +63,8 @@
 # 🐘 6. Notions de Base en PHP
 
 1. À quoi sert principalement PHP ?
-2. Comment PHP interagit-il avec un formulaire HTML ?
-3. Quelle est la différence entre frontend et backend ?
-4. Avez-vous déjà connecté un formulaire à une base de données ?
-5. Quelles précautions de sécurité faut-il prendre lors du traitement de données envoyées par un formulaire ?
+2. Quelle est la différence entre frontend et backend ?
+3. Quelles précautions de sécurité faut-il prendre lors du traitement de données envoyées par un formulaire ?
 
 ---
 
@@ -84,8 +73,7 @@
 1. Qu’est-ce que Git ?
 2. Quelle est la différence entre `git pull` et `git fetch` ?
 3. Qu’est-ce qu’une branche ?
-4. Comment résoudre un conflit de merge ?
-5. Pourquoi la gestion de versions est-elle importante dans un travail collaboratif ?
+4. Pourquoi la gestion de versions est-elle importante dans un travail collaboratif ?
 
 ---
 
@@ -121,7 +109,6 @@ Pour chaque projet mentionné :
 2. Décrivez un bug complexe que vous avez résolu.
 3. Si un client vous demande quelque chose que vous ne savez pas encore faire, que faites-vous ?
 4. Comment trouvez-vous l’équilibre entre rapidité et qualité du code ?
-5. Pourquoi devrions-nous vous choisir plutôt qu’un autre développeur junior ?
 
 ---
 
@@ -139,4 +126,3 @@ Pour chaque projet mentionné :
 1. Quelles sont vos disponibilités horaires ?
 2. Avez-vous d’autres missions en cours ?
 3. Quelles sont vos prétentions tarifaires ?
-4. Avez-vous des questions pour nous ?
